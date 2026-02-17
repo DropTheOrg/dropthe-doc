@@ -20,7 +20,7 @@ Traditional databases store entities in isolation. The DropThe knowledge graph c
 
 ## How It Powers DropThe
 
-Every entity page on [dropthe.org](https://dropthe.org) is generated from knowledge graph queries:
+Every [entity page on the DropThe network](https://dropthe.org) is generated from knowledge graph queries:
 
 - **Related Entities** sections show connected people, companies, and titles
 - **Gossip** sections surface non-obvious connections mined by the [Intelligence Engine](../intelligence/)

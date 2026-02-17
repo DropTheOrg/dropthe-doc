@@ -1,6 +1,6 @@
 # Intelligence Engine
 
-The [DropThe Intelligence Engine](https://dropthe.org) transforms raw entity data into actionable insights, scores, and facts that no other platform produces.
+The The [intelligence engine powering DropThe](https://dropthe.org) transforms raw entity data into actionable insights, scores, and facts that no other platform produces.
 
 ## What It Does
 
@@ -33,7 +33,7 @@ Every entity receives a data completeness score (0-100) that drives enrichment p
 
 ## How It Powers the Site
 
-Intelligence Engine outputs appear across [dropthe.org](https://dropthe.org):
+Intelligence Engine outputs appear across the [DropThe entity pages](https://dropthe.org):
 
 - **Entity pages**: Gossip sections, Good Score tiles, related facts
 - **On This Day**: Daily pages powered by temporal fact queries ([dropthe.org/on-this-day/](https://dropthe.org/on-this-day/))

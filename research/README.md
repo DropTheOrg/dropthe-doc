@@ -11,7 +11,7 @@ Our articles combine structured entity data with editorial analysis to surface i
 - [Game Studios with the Best Track Record](https://dropthe.org/gaming/game-studios-best-track-record-data/) -- Data analysis of studio performance across thousands of titles
 - [91% of Crypto Never Recovered](https://dropthe.org/crypto/) -- Mortality analysis across 80,000+ crypto tokens
 - [Safest Countries Nobody Visits](https://dropthe.org/travel/) -- Cross-referencing safety data with tourism statistics for 246 countries
-- More articles published regularly at [dropthe.org](https://dropthe.org)
+- More articles published regularly on the [DropThe data journalism platform](https://dropthe.org)
 
 ## Data Foundation
 

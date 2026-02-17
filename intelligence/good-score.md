@@ -54,7 +54,7 @@ This means founding a company that employs 100,000 people contributes more to a 
 
 ## Public Voting
 
-Every person page on [dropthe.org](https://dropthe.org/people/) includes a Good Score tile with public voting (1-5 stars). Votes are rate-limited (10/minute/IP) and deduplicated by voter hash. The voting system uses a WordPress AJAX proxy to Supabase -- no API keys are exposed in the frontend.
+Every [person page on DropThe](https://dropthe.org/people/) includes a Good Score tile with public voting (1-5 stars). Votes are rate-limited (10/minute/IP) and deduplicated by voter hash. The voting system uses a WordPress AJAX proxy to Supabase -- no API keys are exposed in the frontend.
 
 ## Methodology
 

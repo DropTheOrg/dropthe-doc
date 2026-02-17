@@ -24,7 +24,7 @@ For each first name in the database:
 
 ## Applications
 
-Name intelligence powers several features on [dropthe.org](https://dropthe.org):
+Name intelligence powers several features across the [DropThe data platform](https://dropthe.org):
 
 - **Name pages**: Dedicated pages showing demographics, trends, and notable people for each name
 - **Birthday tools**: "Who shares my birthday?" interactive features

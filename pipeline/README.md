@@ -37,7 +37,7 @@ See [Quality Standards](quality-standards.md) for the full checklist applied to 
 
 ## Output
 
-Published articles appear at [dropthe.org](https://dropthe.org) with:
+Published articles appear on the [DropThe media network](https://dropthe.org) with:
 - Data-backed claims with entity links to source pages
 - Structured schema markup (Article, FAQ, Review where applicable)
 - TLDR section optimized for AI answer engines (AEO)

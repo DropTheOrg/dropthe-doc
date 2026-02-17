@@ -19,4 +19,4 @@ Some relationships are inferred from transitive connections. If Person A founded
 2. **Resolution**: Duplicate entities are merged using fuzzy matching and unique identifiers
 3. **Linking**: Relationships are extracted from structured data and editorial review
 4. **Validation**: Links are scored for confidence and flagged if below threshold
-5. **Publishing**: Verified links appear on entity pages across [dropthe.org](https://dropthe.org)
+5. **Publishing**: Verified links appear on [entity pages across DropThe](https://dropthe.org)

@@ -41,7 +41,7 @@ Richness scores combine with popularity tier (S/A/B/C/D from Wikipedia pageviews
 priority = (1 - richness_score/100) * popularity_weight
 ```
 
-High-popularity, low-richness entities get enriched first. This ensures that the most-visited pages on [dropthe.org](https://dropthe.org) have the best data, while less-visited entities are enriched opportunistically.
+High-popularity, low-richness entities get enriched first. This ensures that the most-visited [entity pages on DropThe](https://dropthe.org) have the best data, while less-visited entities are enriched opportunistically.
 
 ## Impact of Enrichment
 

@@ -64,4 +64,4 @@ Current database statistics for the [DropThe entity database](https://dropthe.or
 
 The database grows through automated enrichment pipelines running on dedicated infrastructure. Recent enrichment sessions have processed 274,000+ entities in single runs across multiple source APIs.
 
-Explore the data at [dropthe.org](https://dropthe.org).
+Explore the data at [explore the full database](https://dropthe.org).

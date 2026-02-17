@@ -17,7 +17,7 @@ Practical content organized around entity categories -- streaming availability, 
 
 ## Entity Linking
 
-Every article weaves links to relevant entity pages on [dropthe.org](https://dropthe.org). The linking system:
+Every article weaves links to relevant entity pages across the [DropThe entity database](https://dropthe.org). The linking system:
 
 1. Identifies entities mentioned in the article text
 2. Matches them against the local database using exact and fuzzy search

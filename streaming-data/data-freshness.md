@@ -14,7 +14,7 @@ No streaming tracker is 100% accurate in real-time -- platforms can add or remov
 
 ## Coverage Gaps
 
-If a movie or series on [dropthe.org](https://dropthe.org) shows no streaming data, it may be:
+If a movie or series in the [DropThe streaming tracker](https://dropthe.org) shows no streaming data, it may be:
 - Not currently available on any tracked platform
 - Available on a platform we don't yet track
 - Recently added and not yet captured in the daily scan

@@ -1,6 +1,6 @@
 # Fact Mining
 
-The [DropThe Intelligence Engine](https://dropthe.org) runs 8 automated miners that extract non-obvious facts from entity data and knowledge graph connections.
+The The [entity intelligence engine](https://dropthe.org) runs 8 automated miners that extract non-obvious facts from entity data and knowledge graph connections.
 
 ## Miners
 
@@ -56,7 +56,7 @@ Each miner is an independent Python module that:
 3. Writes results to the `entity_facts` table with typed metadata
 4. Links facts to relevant entities via `fact_entity_links`
 
-Miners run on local infrastructure to avoid production API limits. Results are pushed to [Supabase](https://dropthe.org) production after verification.
+Miners run on local infrastructure to avoid production API limits. Results are pushed to production on [DropThe](https://dropthe.org) after verification.
 
 ## Collections
 

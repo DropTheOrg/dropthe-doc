@@ -8,7 +8,7 @@ Journalists, analysts, and researchers use entity connections to map corporate s
 
 ## Entertainment Discovery
 
-Which streaming platform has that movie? Who directed this series? What other games did this studio make? The knowledge graph powers discovery across the entertainment landscape on [dropthe.org](https://dropthe.org).
+Which streaming platform has that movie? Who directed this series? What other games did this studio make? The knowledge graph powers discovery across the entertainment landscape on [the DropThe knowledge graph](https://dropthe.org).
 
 ## Competitive Intelligence
 

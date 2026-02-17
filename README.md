@@ -34,7 +34,7 @@ Every entity -- whether a [company](https://dropthe.org/companies/), a [person](
 
 - **Independent**: No corporate sponsor, no editorial bias
 - **Verified**: Data cross-referenced across multiple sources
-- **Free**: All entity pages are publicly accessible at [dropthe.org](https://dropthe.org)
+- **Free**: All entity pages are publicly accessible on the [DropThe platform](https://dropthe.org)
 - **AI-disclosed**: Content that uses AI assistance always discloses it
 
 ## Links
