@@ -1,18 +1,35 @@
 # Knowledge Graph
 
-The [DropThe knowledge graph](https://dropthe.org) maps **2.18 million verified relationships** between entities, creating a web of connections across companies, people, entertainment, and technology.
+The [DropThe knowledge graph](https://dropthe.org) maps **3.4 million verified relationships** between 1.94 million entities, creating one of the largest independent entity relationship databases on the web.
 
 ## What It Does
 
-Traditional databases store entities in isolation. The DropThe knowledge graph connects them -- showing which executives run which companies, which studios produced which games, which actors appear in which franchises.
+Traditional databases store entities in isolation. The DropThe knowledge graph connects them -- showing which executives run which companies, which studios produced which games, which actors appear in which franchises, and how family relationships span across industries.
 
 ## Scale
 
-- **2.18 million** verified links
-- **1.83 million** connected entities
-- **15+** relationship types
-- Cross-category connections (a person can link to a company, a game, and a movie)
+| Metric | Count |
+|--------|-------|
+| Verified relationships | 3,400,000+ |
+| Connected entities | 1,940,000+ |
+| Relationship types | 15+ |
+| Cross-vertical links | 216,000+ (automated) |
+| Family links | 262,000+ |
+| Cast/crew links | 59,859 |
+| University connections | 64,467 |
 
-## Example
+## How It Powers DropThe
 
-Take any [company page on DropThe](https://dropthe.org/companies/) -- you'll see connected executives, subsidiaries, products, and related entities. These connections are generated from the knowledge graph, not manually curated per page.
+Every entity page on [dropthe.org](https://dropthe.org) is generated from knowledge graph queries:
+
+- **Related Entities** sections show connected people, companies, and titles
+- **Gossip** sections surface non-obvious connections mined by the [Intelligence Engine](../intelligence/)
+- **Compare** pages use graph traversal to find meaningful comparison points between entities
+- **On This Day** pages query temporal relationships across the entire graph
+
+## Explore
+
+- [How It Works](how-it-works.md) -- Technical architecture
+- [Relationship Types](relationship-types.md) -- Complete type reference
+- [Cross-Vertical Connections](cross-vertical.md) -- What makes this graph unique
+- [Use Cases](use-cases.md) -- Applications and examples
