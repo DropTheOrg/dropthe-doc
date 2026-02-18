@@ -1,6 +1,6 @@
 # Entity Types
 
-The [DropThe entity database](https://dropthe.org) organizes 1.94 million entities across 17 primary categories.
+The [DropThe entity database](https://dropthe.org) organizes 2 million entities across 17 primary categories.
 
 ## Core Categories
 

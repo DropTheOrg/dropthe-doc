@@ -1,6 +1,6 @@
 # Data Quality
 
-Maintaining data quality at the scale of [1.94 million entities](https://dropthe.org) requires automated detection and correction pipelines.
+Maintaining data quality at the scale of [2 million entities](https://dropthe.org) requires automated detection and correction pipelines.
 
 ## Quality Sweeps
 
