@@ -24,7 +24,7 @@ Every entity -- whether a [company](https://dropthe.org/companies/), a [person](
 ## Core Systems
 
 - **[Entity Database](entity-database/)** -- 2M+ entities across 17 categories
-- **[Knowledge Graph](knowledge-graph/)** -- 3.4M verified relationships mapping how entities connect
+- **[Knowledge Graph](knowledge-graph/)** -- 3.5M verified relationships mapping how entities connect
 - **[Streaming Data](streaming-data/)** -- 700K records tracking what's available where
 - **[Intelligence Engine](intelligence/)** -- Automated fact mining, scoring, and ethical ratings
 - **[Content Pipeline](pipeline/)** -- Data-driven article production system

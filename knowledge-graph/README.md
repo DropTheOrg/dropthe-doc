@@ -1,6 +1,6 @@
 # Knowledge Graph
 
-The [DropThe knowledge graph](https://dropthe.org) maps **3.4 million verified relationships** between 1.94 million entities, creating one of the largest independent entity relationship databases on the web.
+The [DropThe knowledge graph](https://dropthe.org) maps **3.5 million verified relationships** between 2 million entities, creating one of the largest independent entity relationship databases on the web.
 
 ## What It Does
 

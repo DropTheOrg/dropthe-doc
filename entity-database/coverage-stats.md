@@ -27,7 +27,7 @@ Current database statistics for the [DropThe entity database](https://dropthe.or
 
 ## Knowledge Graph
 
-- **3.4 million** verified relationships between entities
+- **3.5 million** verified relationships between entities
 - **15+** relationship types (works-at, founded-by, published-by, acted-in, etc.)
 - **Cross-link engine**: 7 automated strategies created 216K links (people-places 93K, movies-places 80K, movies-companies 33K, companies-places 10K, people-education 950)
 - **Bidirectional integrity**: All links verified with reverse counterparts
