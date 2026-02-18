@@ -1,5 +1,7 @@
 # Pipeline de Conteudo
 
-[DropThe](https://dropthe.org) opera um pipeline automatizado de 7 etapas para producao de artigos baseados em dados.
+[DropThe](https://dropthe.org) publica artigos e guias baseados em dados, impulsionados pela base de dados de entidades e o grafo de conhecimento.
 
-Artigos com 1,400-2,000 palavras e 18-22 links internos a [paginas de entidades](https://dropthe.org). Publicados no [blog](https://dropthe.org/blog/).
+Padroes: dados verificaveis, links a entidades, transparencia IA, sem afirmacoes de produtos, conformidade legal.
+
+Ler: [dropthe.org/blog/](https://dropthe.org/blog/) | [dropthe.org/guides/](https://dropthe.org/guides/)

@@ -22,6 +22,4 @@
   * [Plataformas rastreadas](streaming-data/platforms-tracked.md)
   * [Frescor de dados](streaming-data/data-freshness.md)
 * [Pipeline de conteudo](pipeline/README.md)
-  * [Producao de artigos](pipeline/article-production.md)
-  * [Padroes de qualidade](pipeline/quality-standards.md)
 * [Pesquisa e artigos](research/README.md)
