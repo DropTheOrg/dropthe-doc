@@ -9,13 +9,13 @@ Raw data tells you that an actor was born in 1985 and appeared in 12 movies. The
 ## Components
 
 ### [Fact Mining](fact-mining.md)
-8 automated miners extract non-obvious intelligence from entity data and knowledge graph connections. 143,000+ facts generated across categories like zodiac patterns, birthday coincidences, geographic clustering, and cross-vertical bridges.
+8 automated miners extract non-obvious intelligence from entity data and knowledge graph connections. 150K+ facts generated across categories like zodiac patterns, birthday coincidences, geographic clustering, and cross-vertical bridges.
 
 ### [DropThe Good Score](good-score.md)
-A universal ethical scoring system rating 76,950 people on a 0-100 scale across 5 dimensions: Human Impact, Innovation, Giving, Sustainability, and Cultural Uplift. Knowledge graph propagation means a founder's score reflects their company's downstream impact.
+A universal ethical scoring system rating 100K+ people on a 0-100 scale across 5 dimensions: Human Impact, Innovation, Giving, Sustainability, and Cultural Uplift. Knowledge graph propagation means a founder's score reflects their company's downstream impact.
 
 ### [Name Intelligence](name-intelligence.md)
-20,925 unique first names analyzed across 1.27 million people, revealing gender distributions, nationality patterns, birth decade trends, zodiac correlations, and notable people per name.
+20K+ unique first names analyzed across 1.27 million people, revealing gender distributions, nationality patterns, birth decade trends, zodiac correlations, and notable people per name.
 
 ### [Richness Scoring](richness-scoring.md)
 Every entity receives a data completeness score (0-100) that drives enrichment priority. Low-score, high-popularity entities get enriched first, ensuring resources target the biggest impact.
@@ -24,9 +24,9 @@ Every entity receives a data completeness score (0-100) that drives enrichment p
 
 | Metric | Count |
 |--------|-------|
-| Mined facts | 143,000+ |
-| People scored (Good Score) | 76,950 |
-| Names analyzed | 20,925 |
+| Mined facts | 150K+ |
+| People scored (Good Score) | 100K+ |
+| Names analyzed | 20K+ |
 | Entities with richness scores | 244,995 |
 | Collections published | 756 |
 | Collection items | 5,870 |

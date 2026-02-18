@@ -8,9 +8,9 @@ Every entity page on the [DropThe data network](https://dropthe.org) provides st
 
 | Metric | Count |
 |--------|-------|
-| Total entities | 1,830,000+ |
+| Total entities | 2M+ |
 | Knowledge graph links | 2,180,000+ |
-| Streaming records | 685,000+ |
+| Streaming records | 700K+ |
 | Entity categories | 8 |
 
 ## What Makes It Different

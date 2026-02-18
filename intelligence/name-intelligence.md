@@ -1,6 +1,6 @@
 # Name Intelligence
 
-[DropThe](https://dropthe.org) maintains a name intelligence database analyzing 20,925 unique first names extracted from 1.27 million people entities.
+[DropThe](https://dropthe.org) maintains a name intelligence database analyzing 20K+ unique first names extracted from 1.27 million people entities.
 
 ## What It Contains
 
@@ -17,7 +17,7 @@ For each first name in the database:
 ## How It's Built
 
 1. Extract first names from 1.45 million people entities
-2. Normalize and deduplicate to 20,925 unique names
+2. Normalize and deduplicate to 20K+ unique names
 3. For each name, aggregate demographics across all matching people
 4. Compute distributions using verified data (excluding fake January 1 birthdays)
 5. Rank notable people by Wikipedia pageview data
@@ -34,6 +34,6 @@ Name intelligence powers several features across the [DropThe data platform](htt
 
 | Metric | Count |
 |--------|-------|
-| Unique names analyzed | 20,925 |
+| Unique names analyzed | 20K+ |
 | People covered | 1,270,000 |
 | Coverage rate | 87% of all people entities |

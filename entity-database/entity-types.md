@@ -10,7 +10,7 @@ The [DropThe entity database](https://dropthe.org) organizes 1.94 million entiti
 Browse: [dropthe.org/companies/](https://dropthe.org/companies/)
 
 ### People
-500,000+ executives, creators, actors, directors, and public figures. Enriched with biographical data from Wikidata (gender 99%, nationality 66%, birthday 61%), TMDB (33K+ with filmography), and Wikipedia (29K+ with bios and images). 76,950 people have ethical [Good Scores](../intelligence/good-score.md).
+500,000+ executives, creators, actors, directors, and public figures. Enriched with biographical data from Wikidata (gender 99%, nationality 66%, birthday 61%), TMDB (33K+ with filmography), and Wikipedia (29K+ with bios and images). 100K+ people have ethical [Good Scores](../intelligence/good-score.md).
 
 Browse: [dropthe.org/people/](https://dropthe.org/people/)
 

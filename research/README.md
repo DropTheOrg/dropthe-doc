@@ -17,10 +17,10 @@ Our articles combine structured entity data with editorial analysis to surface i
 
 Every research article draws from:
 
-- **1.94M entities** across 17 categories ([Entity Database](../entity-database/))
+- **2M+ entities** across 17 categories ([Entity Database](../entity-database/))
 - **3.4M knowledge graph links** revealing non-obvious connections ([Knowledge Graph](../knowledge-graph/))
 - **143K mined intelligence facts** from the [Intelligence Engine](../intelligence/)
-- **685K streaming records** for entertainment coverage
+- **700K streaming records** for entertainment coverage
 - **246 countries** with World Bank economic indicators
 
 ## Methodology

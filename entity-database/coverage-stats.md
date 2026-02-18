@@ -23,7 +23,7 @@ Current database statistics for the [DropThe entity database](https://dropthe.or
 | Awards | 74 | Manual + Wikidata |
 | Franchises | 73+ | -- |
 | Streaming Services | 37 | -- |
-| **Total** | **1,940,000+** | |
+| **Total** | **2M+** | |
 
 ## Knowledge Graph
 
@@ -36,15 +36,15 @@ Current database statistics for the [DropThe entity database](https://dropthe.or
 
 | System | Records |
 |--------|---------|
-| Entity facts (mined intelligence) | 143,000+ |
-| Name intelligence records | 20,925 unique first names covering 1.27M people |
-| People with Good Scores | 76,950 |
+| Entity facts (mined intelligence) | 150K+ |
+| Name intelligence records | 20K+ unique first names covering 1.27M people |
+| People with Good Scores | 100K+ |
 | Wikipedia pageview scores | 81,932 |
 | Collections published | 756 (5,870 items) |
 
 ## Streaming Data
 
-- **685,000** streaming availability records
+- **700K** streaming availability records
 - **25** countries covered
 - **37** streaming platforms tracked
 - Updated daily

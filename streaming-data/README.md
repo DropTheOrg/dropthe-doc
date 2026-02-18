@@ -1,6 +1,6 @@
 # Streaming Data
 
-[DropThe](https://dropthe.org) tracks **685,000 streaming availability records** across major platforms, updated daily.
+[DropThe](https://dropthe.org) tracks **700K streaming availability records** across major platforms, updated daily.
 
 ## What We Track
 

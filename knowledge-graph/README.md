@@ -11,7 +11,7 @@ Traditional databases store entities in isolation. The DropThe knowledge graph c
 | Metric | Count |
 |--------|-------|
 | Verified relationships | 3,400,000+ |
-| Connected entities | 1,940,000+ |
+| Connected entities | 2M+ |
 | Relationship types | 15+ |
 | Cross-vertical links | 216,000+ (automated) |
 | Family links | 262,000+ |

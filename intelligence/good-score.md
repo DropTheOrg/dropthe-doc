@@ -38,7 +38,7 @@ This means founding a company that employs 100,000 people contributes more to a 
 
 ## Scale
 
-- **76,950 people scored**
+- **100K+ people scored**
 - **0 errors** in computation run
 - Pushed to production in 1,000-row batches (77 chunks)
 
