@@ -20,7 +20,7 @@ Each approved topic gets a strategy brief defining: thesis statement, fil rouge 
 The pipeline queries the [entity database](../entity-database/) and [knowledge graph](../knowledge-graph/) for relevant data. Entity links are matched using local PostgreSQL with fuzzy search capability.
 
 ### Step 4: Article Writing
-Multi-AI strategy: first pass generates data-rich content structure, second pass applies editorial voice. Two different model families are used for AI detection resistance. Articles average 1,400-2,000 words with 18-22 entity links each.
+Multi-AI strategy: first pass generates data-rich content structure, second pass applies editorial voice. Articles average 1,400-2,000 words with 18-22 entity links each.
 
 ### Step 5: Image Selection
 Stock image search via Unsplash and Pexels APIs with API-compliant attribution. Entity compositor adds branded overlays where appropriate.

@@ -24,7 +24,6 @@ Every article published on [DropThe](https://dropthe.org) passes through automat
 - Entity links resolve to live pages
 
 ### Voice
-- No AI tell words: delve, tapestry, leverage, landscape, myriad, foster, holistic, multifaceted, nuanced, paradigm
 - No throat-clearing ("In today's world...", "It's worth noting...")
 - No summary endings ("In conclusion...")
 - Short sentences (10-15 word average)
