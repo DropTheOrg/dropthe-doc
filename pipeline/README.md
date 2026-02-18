@@ -1,45 +1,23 @@
-# Content Pipeline
+# Content & Research
 
-[DropThe](https://dropthe.org) operates an automated content pipeline that produces data-driven articles at scale. The system combines AI generation with structured entity data to create research-backed content.
+[DropThe](https://dropthe.org) publishes data-driven articles and guides powered by the entity database and knowledge graph.
 
-## Architecture
+## What We Publish
 
-The pipeline follows a 7-step chain:
+- **Research articles**: Long-form analysis backed by entity data, published on the [DropThe blog](https://dropthe.org/blog/)
+- **Guides**: Curated reference content across [streaming](https://dropthe.org/guides/), gaming, crypto, and country data
+- **Entity intelligence**: Automated insights surfaced on [entity pages](https://dropthe.org) across all categories
 
-```
-Topic Intelligence → Strategy Brief → Data Pull → Article Writing → Image Selection → WordPress Publish → Post-Publish Audit
-```
+## Standards
 
-### Step 1: Topic Intelligence
-Automated analysis identifies high-value topics based on search trends, coverage gaps in the entity database, and content calendar planning. Three pitch sessions run daily, each producing 5 article topic proposals.
+Every piece of content on [DropThe](https://dropthe.org) follows strict editorial standards:
 
-### Step 2: Strategy Brief
-Each approved topic gets a strategy brief defining: thesis statement, fil rouge (narrative thread), pattern break (surprising data point), portable fact (shareable insight), target entity links, and SEO parameters.
+- **Data-backed**: Claims supported by verifiable numbers from the [entity database](../entity-database/)
+- **Entity-linked**: Articles connect to relevant [company](https://dropthe.org/companies/), [person](https://dropthe.org/people/), [movie](https://dropthe.org/movies/), [game](https://dropthe.org/games/), and [crypto](https://dropthe.org/crypto/) pages
+- **AI-disclosed**: Content that uses AI assistance always declares it
+- **No product claims**: We analyze data -- we never claim to have tested products
+- **Legal compliance**: No defamation, no unverified claims about individuals
 
-### Step 3: Data Pull
-The pipeline queries the [entity database](../entity-database/) and [knowledge graph](../knowledge-graph/) for relevant data. Entity links are matched using local PostgreSQL with fuzzy search capability.
+Read the latest: [dropthe.org/blog/](https://dropthe.org/blog/)
 
-### Step 4: Article Writing
-Multi-AI strategy: first pass generates data-rich content structure, second pass applies editorial voice. Articles average 1,400-2,000 words with 18-22 entity links each.
-
-### Step 5: Image Selection
-Stock image search via Unsplash and Pexels APIs with API-compliant attribution. Entity compositor adds branded overlays where appropriate.
-
-### Step 6: WordPress Publish
-Automated publishing via WordPress REST API with structured metadata: TLDR, FAQ schema, entity cards, companion sidebar data, and category assignment.
-
-### Step 7: Post-Publish Audit
-Automated verification checks: HTTP 200 response, entity link resolution, schema markup validation, image loading, and mobile rendering.
-
-## Quality Controls
-
-See [Quality Standards](quality-standards.md) for the full checklist applied to every article.
-
-## Output
-
-Published articles appear on the [DropThe media network](https://dropthe.org) with:
-- Data-backed claims with entity links to source pages
-- Structured schema markup (Article, FAQ, Review where applicable)
-- TLDR section optimized for AI answer engines (AEO)
-- Companion sidebar with scroll-morphing stages (Quick Answer, TLDR, Gossip, Take)
-- Social distribution queued across X, Bluesky, and other platforms
+Browse guides: [dropthe.org/guides/](https://dropthe.org/guides/)

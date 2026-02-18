@@ -25,7 +25,7 @@ Clusters entities by location, finding patterns in where notable people come fro
 Finds notable people who share exact birth dates, creating unexpected connections across industries and eras.
 
 - **Output**: 295 facts
-- **Example**: "Elon Musk and Kanye West were born 4 days apart in June 1971/1977"
+- **Example**: "Two Nobel Prize winners in Physics shared the same birthday 50 years apart"
 
 ### Temporal Miner
 Discovers patterns in dates -- what happened on specific days, years with unusual clustering of events, seasonal patterns in releases and births.

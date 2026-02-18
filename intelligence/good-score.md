@@ -50,7 +50,6 @@ This means founding a company that employs 100,000 people contributes more to a 
 | Walt Disney | 99 | Exceptional |
 | Elon Musk | 99 | Exceptional |
 | Oprah Winfrey | 79 | Very High |
-| Taylor Swift | 38 | Moderate |
 
 ## Public Voting
 
