@@ -43,3 +43,18 @@ Every entity -- whether a [company](https://dropthe.org/companies/), a [person](
 - GitHub: [github.com/DropTheOrg](https://github.com/DropTheOrg)
 - X/Twitter: [@dropthehq](https://twitter.com/dropthehq)
 - Datasets: [Kaggle](https://www.kaggle.com/dropthe) | [HuggingFace](https://huggingface.co/DropTheHQ)
+
+## Explore
+
+| Section | Link |
+|---------|------|
+| Company intelligence | [dropthe.org/companies/](https://dropthe.org/companies/) |
+| People database | [dropthe.org/people/](https://dropthe.org/people/) |
+| Movie tracker | [dropthe.org/movies/](https://dropthe.org/movies/) |
+| Series tracker | [dropthe.org/series/](https://dropthe.org/series/) |
+| Game database | [dropthe.org/games/](https://dropthe.org/games/) |
+| Crypto tracker | [dropthe.org/crypto/](https://dropthe.org/crypto/) |
+| Data guides | [dropthe.org/guides/](https://dropthe.org/guides/) |
+| Articles & analysis | [dropthe.org/blog/](https://dropthe.org/blog/) |
+| On This Day | [dropthe.org/on-this-day/](https://dropthe.org/on-this-day/) |
+| Good Score methodology | [dropthe.org/good/methodology/](https://dropthe.org/good/methodology/) |

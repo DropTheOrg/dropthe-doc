@@ -21,3 +21,14 @@ Every entity page on the [DropThe data network](https://dropthe.org) provides st
 - **Connected**: Every entity links to related entities via the [knowledge graph](../knowledge-graph/)
 
 Browse the [full entity database](https://dropthe.org).
+
+## Browse by Category
+
+- [Companies](https://dropthe.org/companies/) -- 400K+ corporations, studios, publishers
+- [People](https://dropthe.org/people/) -- 500K+ executives, creators, actors
+- [Movies](https://dropthe.org/movies/) -- 300K+ films with streaming data
+- [Series](https://dropthe.org/series/) -- 150K+ TV shows and streaming series
+- [Games](https://dropthe.org/games/) -- 200K+ video games across platforms
+- [Crypto](https://dropthe.org/crypto/) -- 80K+ tokens and blockchain projects
+
+Or explore everything through the [DropThe guides](https://dropthe.org/guides/) and [blog](https://dropthe.org/blog/).

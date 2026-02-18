@@ -21,3 +21,15 @@ The structured, open nature of the DropThe database makes it suitable for academ
 ## Data Journalism
 
 Our entity data and knowledge graph connections provide a foundation for data-driven storytelling. Browse our [published research](https://dropthe.org/research/) for examples.
+
+## Explore the Graph in Action
+
+The knowledge graph powers every hub on DropThe:
+
+- **[Company pages](https://dropthe.org/companies/)** show connected executives, subsidiaries, and products
+- **[People pages](https://dropthe.org/people/)** reveal career connections, family networks, and filmography
+- **[Movie pages](https://dropthe.org/movies/)** link to cast, directors, studios, and streaming platforms
+- **[Game pages](https://dropthe.org/games/)** connect to developers, publishers, and franchise timelines
+- **[Crypto pages](https://dropthe.org/crypto/)** trace founder relationships and investment chains
+
+For curated explorations, see the [DropThe guides](https://dropthe.org/guides/) or browse the latest [data-driven articles](https://dropthe.org/blog/).

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Explore DropThe](explore.md)
 * [Entity Database](entity-database/README.md)
   * [Entity Types](entity-database/entity-types.md)
   * [Data Sources & Enrichment](entity-database/data-sources.md)

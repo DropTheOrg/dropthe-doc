@@ -59,3 +59,9 @@ Every [person page on DropThe](https://dropthe.org/people/) includes a Good Scor
 ## Methodology
 
 Full methodology documentation is published at [dropthe.org/good/methodology/](https://dropthe.org/good/methodology/).
+
+## Explore Good Scores
+
+- [Browse people with Good Scores](https://dropthe.org/people/) -- Find any person and see their ethical rating
+- [Good Score methodology](https://dropthe.org/good/methodology/) -- Full transparency on how scores are calculated
+- [Latest research articles](https://dropthe.org/blog/) -- Data analysis using Good Score insights

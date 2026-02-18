@@ -13,3 +13,9 @@ Streaming availability is fragmented and constantly shifting. Content moves betw
 ## Access
 
 Streaming data is available on individual [movie](https://dropthe.org/movies/) and [series](https://dropthe.org/series/) entity pages across dropthe.org.
+
+## Browse Streaming Content
+
+- [Movies with streaming data](https://dropthe.org/movies/) -- 300K+ films, check availability per platform
+- [Series with streaming data](https://dropthe.org/series/) -- 150K+ shows tracked across platforms
+- [Streaming guides](https://dropthe.org/guides/) -- Curated recommendations by platform and genre

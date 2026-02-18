@@ -38,6 +38,15 @@ Raw data is available for independent verification and research:
 - **Kaggle**: [kaggle.com/dropthe](https://www.kaggle.com/dropthe) -- Entity datasets with backlinks
 - **HuggingFace**: [huggingface.co/DropTheHQ](https://huggingface.co/DropTheHQ) -- ML-ready datasets
 
+## Explore More
+
+- [All articles](https://dropthe.org/blog/) -- Latest data-driven journalism
+- [Guides](https://dropthe.org/guides/) -- Curated reference content by topic
+- [Companies](https://dropthe.org/companies/) -- Corporate entity data
+- [People](https://dropthe.org/people/) -- People intelligence and Good Scores
+- [Movies](https://dropthe.org/movies/) -- Film data and streaming availability
+- [On This Day](https://dropthe.org/on-this-day/) -- Historical events powered by entity data
+
 ## Stay Updated
 
 - Website: [dropthe.org](https://dropthe.org)
