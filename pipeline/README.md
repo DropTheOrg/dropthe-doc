@@ -1,3 +1,7 @@
-# Pipeline de Contenu
+# Contenu et Recherche
 
-Pipeline automatise en 7 etapes. Articles de 1,400-2,000 mots avec 18-22 liens internes vers les [pages d'entites](https://dropthe.org). Publies sur le [blog](https://dropthe.org/blog/).
+[DropThe](https://dropthe.org) publie des articles et guides bases sur les donnees, alimentes par la base d'entites et le graphe de connaissances.
+
+Standards: donnees verifiables, liens vers les entites, transparence IA, pas de revendications produit, conformite legale.
+
+Lire: [dropthe.org/blog/](https://dropthe.org/blog/) | [dropthe.org/guides/](https://dropthe.org/guides/)
