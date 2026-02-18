@@ -1,6 +1,6 @@
 # Entity Database
 
-DropThe maintains one of the largest independent [entity databases](https://dropthe.org) on the web, tracking **1.83 million entities** across entertainment, technology, finance, gaming, and more.
+DropThe maintains one of the largest independent [entity databases](https://dropthe.org) on the web, tracking **2 million entities** across entertainment, technology, finance, gaming, and more.
 
 Every entity page on the [DropThe data network](https://dropthe.org) provides structured data including descriptions, metadata, related entities, and category-specific intelligence.
 
