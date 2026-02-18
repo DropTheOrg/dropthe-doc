@@ -24,4 +24,5 @@
 * [Content Pipeline](pipeline/README.md)
   * [Article Production](pipeline/article-production.md)
   * [Quality Standards](pipeline/quality-standards.md)
+* [Data Roadmap](roadmap/README.md)
 * [Research & Articles](research/README.md)
