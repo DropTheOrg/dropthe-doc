@@ -1,34 +1,25 @@
-# Entity Database
+# Base de Dados de Entidades
 
-DropThe maintains one of the largest independent [entity databases](https://dropthe.org) on the web, tracking **2 million entities** across entertainment, technology, finance, gaming, and more.
+O DropThe mantem uma das maiores [bases de dados de entidades](https://dropthe.org) independentes na web, rastreando mais de **2 milhoes de entidades** em entretenimento, tecnologia, financas, gaming e mais.
 
-Every entity page on the [DropThe data network](https://dropthe.org) provides structured data including descriptions, metadata, related entities, and category-specific intelligence.
+Cada pagina de entidade na [rede de dados DropThe](https://dropthe.org) fornece dados estruturados, metadados, entidades relacionadas e inteligencia especifica por categoria.
 
-## Scale
+## Escala
 
-| Metric | Count |
-|--------|-------|
-| Total entities | 2M+ |
-| Knowledge graph links | 2,180,000+ |
-| Streaming records | 700K+ |
-| Entity categories | 8 |
+| Metrica | Quantidade |
+|---------|-----------|
+| Total de entidades | 2M+ |
+| Links do grafo de conhecimento | 3.5M+ |
+| Registros de streaming | 700K+ |
+| Categorias | 17 |
 
-## What Makes It Different
+## Explorar por Categoria
 
-- **Independent**: No corporate sponsor, no editorial bias
-- **Verified**: Data cross-referenced across multiple sources
-- **Free**: All entity pages are publicly accessible
-- **Connected**: Every entity links to related entities via the [knowledge graph](../knowledge-graph/)
+- [Empresas](https://dropthe.org/companies/) -- 400K+ corporacoes, estudios, editoras
+- [Pessoas](https://dropthe.org/people/) -- 500K+ executivos, criadores, atores
+- [Filmes](https://dropthe.org/movies/) -- 300K+ filmes com dados de streaming
+- [Series](https://dropthe.org/series/) -- 150K+ programas de TV e series de streaming
+- [Jogos](https://dropthe.org/games/) -- 200K+ jogos em todas as plataformas
+- [Criptomoedas](https://dropthe.org/crypto/) -- 80K+ tokens e projetos blockchain
 
-Browse the [full entity database](https://dropthe.org).
-
-## Browse by Category
-
-- [Companies](https://dropthe.org/companies/) -- 400K+ corporations, studios, publishers
-- [People](https://dropthe.org/people/) -- 500K+ executives, creators, actors
-- [Movies](https://dropthe.org/movies/) -- 300K+ films with streaming data
-- [Series](https://dropthe.org/series/) -- 150K+ TV shows and streaming series
-- [Games](https://dropthe.org/games/) -- 200K+ video games across platforms
-- [Crypto](https://dropthe.org/crypto/) -- 80K+ tokens and blockchain projects
-
-Or explore everything through the [DropThe guides](https://dropthe.org/guides/) and [blog](https://dropthe.org/blog/).
+Ou explore tudo atraves dos [guias do DropThe](https://dropthe.org/guides/) e do [blog](https://dropthe.org/blog/).

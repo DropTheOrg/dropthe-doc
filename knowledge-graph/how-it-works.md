@@ -1,22 +1,15 @@
-# How the Knowledge Graph Works
+# Como Funciona o Grafo de Conhecimento
 
-The [DropThe knowledge graph](https://dropthe.org) is a directed graph where entities are nodes and relationships are edges.
+O [grafo de conhecimento do DropThe](https://dropthe.org) e um grafo dirigido onde entidades sao nos e relacoes sao arestas.
 
-## Architecture
+## Arquitetura
 
-### Nodes
-Every entity in the [DropThe database](https://dropthe.org) is a node -- companies, people, games, movies, series, crypto tokens, brands, and franchises. Each node carries structured metadata specific to its type.
+Cada entidade na [base de dados DropThe](https://dropthe.org) e um no -- [empresas](https://dropthe.org/companies/), [pessoas](https://dropthe.org/people/), [jogos](https://dropthe.org/games/), [filmes](https://dropthe.org/movies/), [series](https://dropthe.org/series/), [criptomoedas](https://dropthe.org/crypto/), marcas e franquias.
 
-### Edges
-Relationships between entities are typed and directional. "Person A works at Company B" is a different edge than "Company B employs Person A," though both may exist.
+## Pipeline de Dados
 
-### Inference
-Some relationships are inferred from transitive connections. If Person A founded Company B, and Company B published Game C, the graph can surface the indirect connection between Person A and Game C.
-
-## Data Pipeline
-
-1. **Ingestion**: Raw entity data enters from multiple sources
-2. **Resolution**: Duplicate entities are merged using fuzzy matching and unique identifiers
-3. **Linking**: Relationships are extracted from structured data and editorial review
-4. **Validation**: Links are scored for confidence and flagged if below threshold
-5. **Publishing**: Verified links appear on [entity pages across DropThe](https://dropthe.org)
+1. **Ingestao**: Dados brutos entram de multiplas fontes
+2. **Resolucao**: Entidades duplicadas sao fundidas
+3. **Vinculacao**: Relacoes extraidas de dados estruturados
+4. **Validacao**: Links pontuados por confianca
+5. **Publicacao**: Links verificados aparecem nas [paginas de entidades do DropThe](https://dropthe.org)

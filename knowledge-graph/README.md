@@ -1,35 +1,22 @@
-# Knowledge Graph
+# Grafo de Conhecimento
 
-The [DropThe knowledge graph](https://dropthe.org) maps **3.5 million verified relationships** between 2 million entities, creating one of the largest independent entity relationship databases on the web.
+O [grafo de conhecimento do DropThe](https://dropthe.org) mapeia **3.5 milhoes de relacoes verificadas** entre 2 milhoes de entidades.
 
-## What It Does
+## Escala
 
-Traditional databases store entities in isolation. The DropThe knowledge graph connects them -- showing which executives run which companies, which studios produced which games, which actors appear in which franchises, and how family relationships span across industries.
+| Metrica | Quantidade |
+|---------|-----------|
+| Relacoes verificadas | 3.5M+ |
+| Entidades conectadas | 2M+ |
+| Tipos de relacao | 15+ |
+| Links transversais | 216,000+ |
+| Links familiares | 262,000+ |
 
-## Scale
+## Como Impulsiona o DropThe
 
-| Metric | Count |
-|--------|-------|
-| Verified relationships | 3,400,000+ |
-| Connected entities | 2M+ |
-| Relationship types | 15+ |
-| Cross-vertical links | 216,000+ (automated) |
-| Family links | 262,000+ |
-| Cast/crew links | 59,859 |
-| University connections | 64,467 |
+Cada pagina de entidade no [DropThe](https://dropthe.org) e gerada a partir de consultas ao grafo:
 
-## How It Powers DropThe
-
-Every [entity page on the DropThe network](https://dropthe.org) is generated from knowledge graph queries:
-
-- **Related Entities** sections show connected people, companies, and titles
-- **Gossip** sections surface non-obvious connections mined by the [Intelligence Engine](../intelligence/)
-- **Compare** pages use graph traversal to find meaningful comparison points between entities
-- **On This Day** pages query temporal relationships across the entire graph
-
-## Explore
-
-- [How It Works](how-it-works.md) -- Technical architecture
-- [Relationship Types](relationship-types.md) -- Complete type reference
-- [Cross-Vertical Connections](cross-vertical.md) -- What makes this graph unique
-- [Use Cases](use-cases.md) -- Applications and examples
+- **Entidades relacionadas** nas paginas de [empresas](https://dropthe.org/companies/) e [pessoas](https://dropthe.org/people/)
+- **Gossip** mostra conexoes nao obvias mineradas pelo [motor de inteligencia](../intelligence/)
+- **[Neste Dia](https://dropthe.org/on-this-day/)** consulta relacoes temporais em todo o grafo
+- **[Artigos](https://dropthe.org/blog/)** usam conexoes do grafo como base de pesquisa
