@@ -1,35 +1,15 @@
-# Use Cases
+# Casos de Uso
 
-The [DropThe knowledge graph](https://dropthe.org) serves multiple audiences and applications.
+El [grafo de conocimiento de DropThe](https://dropthe.org) sirve a multiples audiencias y aplicaciones.
 
-## Research & Analysis
+## Investigacion y Analisis
+Periodistas, analistas e investigadores usan conexiones de entidades para mapear estructuras corporativas y entender relaciones industriales. Los [articulos basados en datos](https://dropthe.org/blog/) lo demuestran en practica.
 
-Journalists, analysts, and researchers use entity connections to map corporate structures, track executive movements, and understand industry relationships. Our [data-driven articles](https://dropthe.org/research/) demonstrate this in practice.
+## Descubrimiento de Entretenimiento
+¿En que plataforma de streaming esta esa pelicula? ¿Quien dirigio esta serie? El grafo de conocimiento impulsa el descubrimiento en [peliculas](https://dropthe.org/movies/), [series](https://dropthe.org/series/) y [videojuegos](https://dropthe.org/games/).
 
-## Entertainment Discovery
+## Inteligencia Competitiva
+Rastrea que [empresas](https://dropthe.org/companies/) estan conectadas, que ejecutivos se han movido entre competidores, y que estudios dominan generos especificos.
 
-Which streaming platform has that movie? Who directed this series? What other games did this studio make? The knowledge graph powers discovery across the entertainment landscape on [the DropThe knowledge graph](https://dropthe.org).
-
-## Competitive Intelligence
-
-Track which companies are connected, which executives have moved between competitors, and which studios dominate specific genres -- all through verified [entity data](https://dropthe.org/companies/).
-
-## Academic Research
-
-The structured, open nature of the DropThe database makes it suitable for academic research in network analysis, entertainment economics, and corporate governance studies.
-
-## Data Journalism
-
-Our entity data and knowledge graph connections provide a foundation for data-driven storytelling. Browse our [published research](https://dropthe.org/research/) for examples.
-
-## Explore the Graph in Action
-
-The knowledge graph powers every hub on DropThe:
-
-- **[Company pages](https://dropthe.org/companies/)** show connected executives, subsidiaries, and products
-- **[People pages](https://dropthe.org/people/)** reveal career connections, family networks, and filmography
-- **[Movie pages](https://dropthe.org/movies/)** link to cast, directors, studios, and streaming platforms
-- **[Game pages](https://dropthe.org/games/)** connect to developers, publishers, and franchise timelines
-- **[Crypto pages](https://dropthe.org/crypto/)** trace founder relationships and investment chains
-
-For curated explorations, see the [DropThe guides](https://dropthe.org/guides/) or browse the latest [data-driven articles](https://dropthe.org/blog/).
+## Periodismo de Datos
+Los datos de entidades y conexiones del grafo proporcionan una base para narrativas basadas en datos. Explora la [investigacion publicada](https://dropthe.org/blog/).

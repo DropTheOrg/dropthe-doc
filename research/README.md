@@ -1,54 +1,33 @@
-# Research & Articles
+# Investigacion y Articulos
 
-[DropThe](https://dropthe.org) publishes data-driven research and analysis powered by a database of 2 million entities and 3.5 million knowledge graph connections.
+[DropThe](https://dropthe.org) publica investigacion y analisis basados en datos impulsados por una base de datos de 2 millones de entidades y 3.5 millones de conexiones del grafo de conocimiento.
 
-## What We Publish
+## Investigacion Destacada
 
-Our articles combine structured entity data with editorial analysis to surface insights that pure data or pure opinion cannot provide alone. Every claim links back to verifiable entity pages.
+- [Game Studios with the Best Track Record](https://dropthe.org/gaming/game-studios-best-track-record-data/) -- Analisis de rendimiento de estudios
+- [91% of Crypto Never Recovered](https://dropthe.org/crypto/) -- Analisis de mortalidad de criptomonedas
+- [Safest Countries Nobody Visits](https://dropthe.org/travel/) -- Seguridad vs. turismo en 246 paises
 
-### Featured Research
+Leer lo ultimo: [dropthe.org/blog/](https://dropthe.org/blog/)
 
-- [Game Studios with the Best Track Record](https://dropthe.org/gaming/game-studios-best-track-record-data/) -- Data analysis of studio performance across thousands of titles
-- [91% of Crypto Never Recovered](https://dropthe.org/crypto/) -- Mortality analysis across 80,000+ crypto tokens
-- [Safest Countries Nobody Visits](https://dropthe.org/travel/) -- Cross-referencing safety data with tourism statistics for 246 countries
-- More articles published regularly on the [DropThe data journalism platform](https://dropthe.org)
+## Base de Datos
 
-## Data Foundation
+Cada articulo se basa en:
+- **2M+ entidades** ([Base de datos de entidades](../entity-database/))
+- **3.5M enlaces** del [grafo de conocimiento](../knowledge-graph/)
+- **150K+ hechos minados** del [motor de inteligencia](../intelligence/)
+- **700K registros de streaming**
 
-Every research article draws from:
+## Explorar Mas
 
-- **2M+ entities** across 17 categories ([Entity Database](../entity-database/))
-- **3.5M knowledge graph links** revealing non-obvious connections ([Knowledge Graph](../knowledge-graph/))
-- **143K mined intelligence facts** from the [Intelligence Engine](../intelligence/)
-- **700K streaming records** for entertainment coverage
-- **246 countries** with World Bank economic indicators
-
-## Methodology
-
-1. **Data-first**: Claims backed by verifiable numbers from our database
-2. **Entity-linked**: 18-22 internal links per article connecting to source entity pages
-3. **Transparent**: We explain how data was queried and filtered
-4. **AI-disclosed**: Articles using AI assistance always disclose it
-5. **No product claims**: We never claim to have tested products -- we analyze data
+- [Todos los articulos](https://dropthe.org/blog/)
+- [Guias](https://dropthe.org/guides/)
+- [Empresas](https://dropthe.org/companies/)
+- [Personas](https://dropthe.org/people/)
+- [Peliculas](https://dropthe.org/movies/)
+- [Un Dia Como Hoy](https://dropthe.org/on-this-day/)
 
 ## Datasets
 
-Raw data is available for independent verification and research:
-
-- **Kaggle**: [kaggle.com/dropthe](https://www.kaggle.com/dropthe) -- Entity datasets with backlinks
-- **HuggingFace**: [huggingface.co/DropTheHQ](https://huggingface.co/DropTheHQ) -- ML-ready datasets
-
-## Explore More
-
-- [All articles](https://dropthe.org/blog/) -- Latest data-driven journalism
-- [Guides](https://dropthe.org/guides/) -- Curated reference content by topic
-- [Companies](https://dropthe.org/companies/) -- Corporate entity data
-- [People](https://dropthe.org/people/) -- People intelligence and Good Scores
-- [Movies](https://dropthe.org/movies/) -- Film data and streaming availability
-- [On This Day](https://dropthe.org/on-this-day/) -- Historical events powered by entity data
-
-## Stay Updated
-
-- Website: [dropthe.org](https://dropthe.org)
-- X/Twitter: [@dropthehq](https://twitter.com/dropthehq)
-- GitHub: [github.com/DropTheOrg](https://github.com/DropTheOrg)
+- [Kaggle](https://www.kaggle.com/dropthe)
+- [HuggingFace](https://huggingface.co/DropTheHQ)

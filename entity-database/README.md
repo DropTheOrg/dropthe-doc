@@ -1,34 +1,32 @@
-# Entity Database
+# Base de Datos de Entidades
 
-DropThe maintains one of the largest independent [entity databases](https://dropthe.org) on the web, tracking **2 million entities** across entertainment, technology, finance, gaming, and more.
+DropThe mantiene una de las mayores [bases de datos de entidades](https://dropthe.org) independientes en la web, rastreando mas de **2 millones de entidades** en entretenimiento, tecnologia, finanzas, gaming y mas.
 
-Every entity page on the [DropThe data network](https://dropthe.org) provides structured data including descriptions, metadata, related entities, and category-specific intelligence.
+Cada pagina de entidad en la [red de datos DropThe](https://dropthe.org) proporciona datos estructurados, metadatos, entidades relacionadas e inteligencia especifica por categoria.
 
-## Scale
+## Escala
 
-| Metric | Count |
-|--------|-------|
-| Total entities | 2M+ |
-| Knowledge graph links | 2,180,000+ |
-| Streaming records | 700K+ |
-| Entity categories | 8 |
+| Metrica | Cantidad |
+|---------|----------|
+| Total de entidades | 2M+ |
+| Enlaces del grafo de conocimiento | 3.5M+ |
+| Registros de streaming | 700K+ |
+| Categorias | 17 |
 
-## What Makes It Different
+## Caracteristicas
 
-- **Independent**: No corporate sponsor, no editorial bias
-- **Verified**: Data cross-referenced across multiple sources
-- **Free**: All entity pages are publicly accessible
-- **Connected**: Every entity links to related entities via the [knowledge graph](../knowledge-graph/)
+- **Independiente**: Sin patrocinadores corporativos, sin sesgo editorial
+- **Verificado**: Datos cruzados entre multiples fuentes
+- **Gratuito**: Todas las paginas son accesibles publicamente
+- **Conectado**: Cada entidad enlaza a entidades relacionadas via el [grafo de conocimiento](../knowledge-graph/)
 
-Browse the [full entity database](https://dropthe.org).
+## Explorar por Categoria
 
-## Browse by Category
+- [Empresas](https://dropthe.org/companies/) -- 400K+ corporaciones, estudios, editoras
+- [Personas](https://dropthe.org/people/) -- 500K+ ejecutivos, creadores, actores
+- [Peliculas](https://dropthe.org/movies/) -- 300K+ films con datos de streaming
+- [Series](https://dropthe.org/series/) -- 150K+ programas de TV y series de streaming
+- [Videojuegos](https://dropthe.org/games/) -- 200K+ juegos en todas las plataformas
+- [Criptomonedas](https://dropthe.org/crypto/) -- 80K+ tokens y proyectos blockchain
 
-- [Companies](https://dropthe.org/companies/) -- 400K+ corporations, studios, publishers
-- [People](https://dropthe.org/people/) -- 500K+ executives, creators, actors
-- [Movies](https://dropthe.org/movies/) -- 300K+ films with streaming data
-- [Series](https://dropthe.org/series/) -- 150K+ TV shows and streaming series
-- [Games](https://dropthe.org/games/) -- 200K+ video games across platforms
-- [Crypto](https://dropthe.org/crypto/) -- 80K+ tokens and blockchain projects
-
-Or explore everything through the [DropThe guides](https://dropthe.org/guides/) and [blog](https://dropthe.org/blog/).
+O explora todo a traves de las [guias de DropThe](https://dropthe.org/guides/) y el [blog](https://dropthe.org/blog/).

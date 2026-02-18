@@ -1,45 +1,15 @@
-# Content Pipeline
+# Pipeline de Contenido
 
-[DropThe](https://dropthe.org) operates an automated content pipeline that produces data-driven articles at scale. The system combines AI generation with structured entity data to create research-backed content.
+[DropThe](https://dropthe.org) opera un pipeline automatizado de contenido que produce articulos basados en datos a escala.
 
-## Architecture
+## Arquitectura
 
-The pipeline follows a 7-step chain:
+Pipeline de 7 pasos:
 
 ```
-Topic Intelligence → Strategy Brief → Data Pull → Article Writing → Image Selection → WordPress Publish → Post-Publish Audit
+Inteligencia de Temas → Brief Estrategico → Extraccion de Datos → Escritura → Seleccion de Imagen → Publicacion WordPress → Auditoria Post-Publicacion
 ```
 
-### Step 1: Topic Intelligence
-Automated analysis identifies high-value topics based on search trends, coverage gaps in the entity database, and content calendar planning. Three pitch sessions run daily, each producing 5 article topic proposals.
+Los articulos promedian 1,400-2,000 palabras con 18-22 enlaces internos a [paginas de entidades](https://dropthe.org). Estrategia multi-IA para resistencia a deteccion de IA.
 
-### Step 2: Strategy Brief
-Each approved topic gets a strategy brief defining: thesis statement, fil rouge (narrative thread), pattern break (surprising data point), portable fact (shareable insight), target entity links, and SEO parameters.
-
-### Step 3: Data Pull
-The pipeline queries the [entity database](../entity-database/) and [knowledge graph](../knowledge-graph/) for relevant data. Entity links are matched using local PostgreSQL with fuzzy search capability.
-
-### Step 4: Article Writing
-Multi-AI strategy: first pass generates data-rich content structure, second pass applies editorial voice. Two different model families are used for AI detection resistance. Articles average 1,400-2,000 words with 18-22 entity links each.
-
-### Step 5: Image Selection
-Stock image search via Unsplash and Pexels APIs with API-compliant attribution. Entity compositor adds branded overlays where appropriate.
-
-### Step 6: WordPress Publish
-Automated publishing via WordPress REST API with structured metadata: TLDR, FAQ schema, entity cards, companion sidebar data, and category assignment.
-
-### Step 7: Post-Publish Audit
-Automated verification checks: HTTP 200 response, entity link resolution, schema markup validation, image loading, and mobile rendering.
-
-## Quality Controls
-
-See [Quality Standards](quality-standards.md) for the full checklist applied to every article.
-
-## Output
-
-Published articles appear on the [DropThe media network](https://dropthe.org) with:
-- Data-backed claims with entity links to source pages
-- Structured schema markup (Article, FAQ, Review where applicable)
-- TLDR section optimized for AI answer engines (AEO)
-- Companion sidebar with scroll-morphing stages (Quick Answer, TLDR, Gossip, Take)
-- Social distribution queued across X, Bluesky, and other platforms
+Articulos publicados en [dropthe.org/blog/](https://dropthe.org/blog/) con datos estructurados, TLDR optimizado para motores de respuesta IA, y distribucion social automatizada.

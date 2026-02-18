@@ -1,22 +1,22 @@
-# How the Knowledge Graph Works
+# Como Funciona el Grafo de Conocimiento
 
-The [DropThe knowledge graph](https://dropthe.org) is a directed graph where entities are nodes and relationships are edges.
+El [grafo de conocimiento de DropThe](https://dropthe.org) es un grafo dirigido donde las entidades son nodos y las relaciones son aristas.
 
-## Architecture
+## Arquitectura
 
-### Nodes
-Every entity in the [DropThe database](https://dropthe.org) is a node -- companies, people, games, movies, series, crypto tokens, brands, and franchises. Each node carries structured metadata specific to its type.
+### Nodos
+Cada entidad en la [base de datos DropThe](https://dropthe.org) es un nodo -- [empresas](https://dropthe.org/companies/), [personas](https://dropthe.org/people/), [videojuegos](https://dropthe.org/games/), [peliculas](https://dropthe.org/movies/), [series](https://dropthe.org/series/), [criptomonedas](https://dropthe.org/crypto/), marcas y franquicias.
 
-### Edges
-Relationships between entities are typed and directional. "Person A works at Company B" is a different edge than "Company B employs Person A," though both may exist.
+### Aristas
+Las relaciones entre entidades son tipadas y direccionales.
 
-### Inference
-Some relationships are inferred from transitive connections. If Person A founded Company B, and Company B published Game C, the graph can surface the indirect connection between Person A and Game C.
+### Inferencia
+Algunas relaciones se infieren de conexiones transitivas.
 
-## Data Pipeline
+## Pipeline de Datos
 
-1. **Ingestion**: Raw entity data enters from multiple sources
-2. **Resolution**: Duplicate entities are merged using fuzzy matching and unique identifiers
-3. **Linking**: Relationships are extracted from structured data and editorial review
-4. **Validation**: Links are scored for confidence and flagged if below threshold
-5. **Publishing**: Verified links appear on [entity pages across DropThe](https://dropthe.org)
+1. **Ingestion**: Datos crudos entran de multiples fuentes
+2. **Resolucion**: Entidades duplicadas se fusionan
+3. **Enlace**: Relaciones se extraen de datos estructurados
+4. **Validacion**: Enlaces se puntuan por confianza
+5. **Publicacion**: Enlaces verificados aparecen en [paginas de entidades de DropThe](https://dropthe.org)

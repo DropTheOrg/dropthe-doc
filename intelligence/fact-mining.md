@@ -1,63 +1,18 @@
-# Fact Mining
+# Mineria de Hechos
 
-The The [entity intelligence engine](https://dropthe.org) runs 8 automated miners that extract non-obvious facts from entity data and knowledge graph connections.
+El [motor de inteligencia de DropThe](https://dropthe.org) ejecuta 8 mineros automatizados que extraen hechos no obvios de datos de entidades y conexiones del grafo.
 
-## Miners
+## Mineros
 
-### Zodiac Miner
-Assigns zodiac signs to people based on verified birth dates. Includes a cleanup layer that removes zodiac from 256K people with suspicious January 1 birthdays (default/fake dates).
+| Minero | Hechos | Descripcion |
+|--------|--------|-------------|
+| Zodiaco | 1,550 | Patrones zodiacales en [personas](https://dropthe.org/people/) |
+| Zodiaco Chino | 1,390 | Mapeo de anos de nacimiento |
+| Geografico | 879 | Clustering por ubicacion entre [empresas](https://dropthe.org/companies/) y personas |
+| Gemelos de cumpleanos | 295 | Personas notables que comparten fecha de nacimiento |
+| Temporal | 3,284 | Patrones en fechas, usado en [Un Dia Como Hoy](https://dropthe.org/on-this-day/) |
+| Puente transversal | Creciendo | Entidades que cruzan multiples categorias |
+| Desajuste financiero | En progreso | Empresas con rendimiento vs. percepcion publica |
+| Frecuencia de co-protagonismo | En progreso | Patrones de colaboracion en [peliculas](https://dropthe.org/movies/) y [series](https://dropthe.org/series/) |
 
-- **Output**: 1,550 facts
-- **Example**: "73% of top tech founders are Aquarius or Capricorn"
-
-### Chinese Zodiac Miner
-Maps birth years to Chinese zodiac animals for people entities.
-
-- **Output**: 1,390 facts
-
-### Geographic Miner
-Clusters entities by location, finding patterns in where notable people come from, where companies cluster, and how geography correlates with industry.
-
-- **Output**: 879 facts
-- **Example**: "Helsinki produces 3x more game studio founders per capita than Silicon Valley"
-
-### Birthday Twins Miner
-Finds notable people who share exact birth dates, creating unexpected connections across industries and eras.
-
-- **Output**: 295 facts
-- **Example**: "Elon Musk and Kanye West were born 4 days apart in June 1971/1977"
-
-### Temporal Miner
-Discovers patterns in dates -- what happened on specific days, years with unusual clustering of events, seasonal patterns in releases and births.
-
-- **Output**: 3,143 born_today facts + 141 temporal pattern facts
-
-### Cross-Vertical Bridge Miner
-Identifies entities that span multiple categories in unusual ways -- actors who founded tech companies, musicians who invested in crypto, athletes who became politicians.
-
-- **Output**: Growing (compute-intensive)
-
-### Financial Mismatch Miner
-Flags companies where financial performance doesn't match public perception or market position.
-
-- **Status**: Running (Supabase timeout handling in progress)
-
-### Co-Star Frequency Miner
-Analyzes which actors appear together most frequently across films and series, revealing collaboration patterns in entertainment.
-
-- **Status**: Running (batch size optimization in progress)
-
-## Architecture
-
-Each miner is an independent Python module that:
-
-1. Queries the local PostgreSQL database for relevant entity data
-2. Applies analysis logic to find patterns
-3. Writes results to the `entity_facts` table with typed metadata
-4. Links facts to relevant entities via `fact_entity_links`
-
-Miners run on local infrastructure to avoid production API limits. Results are pushed to production on [DropThe](https://dropthe.org) after verification.
-
-## Collections
-
-Facts are organized into **756 published collections** containing 5,870 items. Collections group related facts for presentation on entity pages and in the [DropThe Gossip](https://dropthe.org) sections.
+Los hechos se organizan en **756 colecciones publicadas** con 5,870 items.

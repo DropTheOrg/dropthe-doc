@@ -1,22 +1,9 @@
-# Data Freshness
+# Frescura de Datos
 
-Streaming availability changes constantly. Here's how [DropThe](https://dropthe.org) keeps records current.
+La disponibilidad de streaming cambia constantemente. Asi es como [DropThe](https://dropthe.org) mantiene los registros actualizados.
 
-## Update Frequency
+- **Escaneos diarios**: Pipelines automatizados verifican catalogos cada 24 horas
+- **Actualizaciones por eventos**: Anuncios de plataformas desencadenan re-escaneos inmediatos
+- **Deteccion de obsolescencia**: Registros mayores de 7 dias se marcan para actualizacion prioritaria
 
-- **Daily scans**: Automated pipelines check platform catalogs every 24 hours
-- **Event-driven updates**: Major platform announcements trigger immediate re-scans
-- **Staleness detection**: Records older than 7 days are flagged for priority refresh
-
-## Accuracy
-
-No streaming tracker is 100% accurate in real-time -- platforms can add or remove content at any moment. DropThe aims for next-day accuracy on major platforms and publishes the last-verified timestamp on entity pages.
-
-## Coverage Gaps
-
-If a movie or series in the [DropThe streaming tracker](https://dropthe.org) shows no streaming data, it may be:
-- Not currently available on any tracked platform
-- Available on a platform we don't yet track
-- Recently added and not yet captured in the daily scan
-
-We continuously expand platform coverage and improve scan frequency.
+Cobertura en expansion continua en [peliculas](https://dropthe.org/movies/) y [series](https://dropthe.org/series/).

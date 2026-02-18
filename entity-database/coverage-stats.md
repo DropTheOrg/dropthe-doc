@@ -1,67 +1,40 @@
-# Coverage Statistics
+# Estadisticas de Cobertura
 
-Current database statistics for the [DropThe entity database](https://dropthe.org). Last updated: February 2026.
+Estadisticas actuales de la [base de datos de entidades DropThe](https://dropthe.org). Ultima actualizacion: febrero 2026.
 
-## Entity Counts by Type
+## Conteo por Tipo
 
-| Category | Count | Top Enrichment Source |
-|----------|-------|----------------------|
-| People | 500,000+ | Wikidata, TMDB, Wikipedia |
-| Companies | 400,000+ | SEC EDGAR, Wikidata |
-| Movies | 300,000+ | TMDB (144K deep) |
-| Games | 200,000+ | IGDB (6.8K+) |
-| Series | 150,000+ | TMDB (12K deep) |
-| Brands | 100,000+ | Wikidata |
-| Crypto | 80,000+ | CoinGecko (12.7K deep) |
-| Universities | 21,677 | Wikidata SPARQL |
-| Apps | 7,000+ | -- |
-| Books | 5,700+ | -- |
-| Manga | 2,000+ | AniList |
-| Events | 1,800+ | -- |
-| Products | 1,600+ | -- |
-| Supplements | 385 | -- |
-| Awards | 74 | Manual + Wikidata |
-| Franchises | 73+ | -- |
-| Streaming Services | 37 | -- |
+| Categoria | Cantidad | Fuente principal |
+|-----------|----------|-----------------|
+| Personas | 500,000+ | Wikidata, TMDB, Wikipedia |
+| Empresas | 400,000+ | SEC EDGAR, Wikidata |
+| Peliculas | 300,000+ | TMDB |
+| Videojuegos | 200,000+ | IGDB |
+| Series | 150,000+ | TMDB |
+| Marcas | 100,000+ | Wikidata |
+| Criptomonedas | 80,000+ | CoinGecko |
+| Universidades | 21,677 | Wikidata SPARQL |
 | **Total** | **2M+** | |
 
-## Knowledge Graph
+## Grafo de Conocimiento
 
-- **3.5 million** verified relationships between entities
-- **15+** relationship types (works-at, founded-by, published-by, acted-in, etc.)
-- **Cross-link engine**: 7 automated strategies created 216K links (people-places 93K, movies-places 80K, movies-companies 33K, companies-places 10K, people-education 950)
-- **Bidirectional integrity**: All links verified with reverse counterparts
+- **3.5 millones** de relaciones verificadas entre entidades
+- **15+** tipos de relaciones
+- Motor de enlaces cruzados: 216K+ enlaces automaticos
 
-## Intelligence Layer
+## Capa de Inteligencia
 
-| System | Records |
-|--------|---------|
-| Entity facts (mined intelligence) | 150K+ |
-| Name intelligence records | 20K+ unique first names covering 1.27M people |
-| People with Good Scores | 100K+ |
-| Wikipedia pageview scores | 81,932 |
-| Collections published | 756 (5,870 items) |
+| Sistema | Registros |
+|---------|-----------|
+| Hechos minados | 150K+ |
+| Inteligencia de nombres | 20K+ nombres unicos |
+| Personas con Good Score | 100K+ |
+| Colecciones publicadas | 756 |
 
-## Streaming Data
+## Datos de Streaming
 
-- **700K** streaming availability records
-- **25** countries covered
-- **37** streaming platforms tracked
-- Updated daily
+- **700K** registros de disponibilidad
+- **25** paises cubiertos
+- **37** plataformas rastreadas
 
-## Image Coverage
-
-| Type | With Images | Coverage |
-|------|------------|----------|
-| Movies | 175,696 | ~59% |
-| People | ~100,000 | ~20% (60% of notable) |
-| Series | 15,545 | ~10% |
-| Crypto | 14,748 | ~18% |
-| Companies | 13,830 | ~3% |
-| Apps | 7,002 | ~100% |
-
-## Growth
-
-The database grows through automated enrichment pipelines running on dedicated infrastructure. Recent enrichment sessions have processed 274,000+ entities in single runs across multiple source APIs.
-
-Explore the data at [explore the full database](https://dropthe.org).
+Explora los datos en [DropThe](https://dropthe.org).

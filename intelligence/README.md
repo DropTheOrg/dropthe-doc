@@ -1,41 +1,25 @@
-# Intelligence Engine
+# Motor de Inteligencia
 
-The The [intelligence engine powering DropThe](https://dropthe.org) transforms raw entity data into actionable insights, scores, and facts that no other platform produces.
+El [motor de inteligencia de DropThe](https://dropthe.org) transforma datos crudos de entidades en hechos accionables, puntuaciones y clasificaciones que ninguna otra plataforma produce.
 
-## What It Does
+## Componentes
 
-Raw data tells you that an actor was born in 1985 and appeared in 12 movies. The Intelligence Engine tells you they share a birthday with 47 other notable people, their zodiac sign connects to a pattern in their career choices, and their filmography crosses 3 major franchises spanning both games and movies.
-
-## Components
-
-### [Fact Mining](fact-mining.md)
-8 automated miners extract non-obvious intelligence from entity data and knowledge graph connections. 150K+ facts generated across categories like zodiac patterns, birthday coincidences, geographic clustering, and cross-vertical bridges.
+### [Mineria de hechos](fact-mining.md)
+8 mineros automatizados extraen inteligencia no obvia. 150K+ hechos generados sobre patrones zodiacales, coincidencias de cumpleanos, clustering geografico y puentes transversales.
 
 ### [DropThe Good Score](good-score.md)
-A universal ethical scoring system rating 100K+ people on a 0-100 scale across 5 dimensions: Human Impact, Innovation, Giving, Sustainability, and Cultural Uplift. Knowledge graph propagation means a founder's score reflects their company's downstream impact.
+Sistema de puntuacion etica universal que califica a 100K+ personas en una escala de 0-100 en 5 dimensiones: Impacto Humano, Innovacion, Generosidad, Sostenibilidad y Elevacion Cultural.
 
-### [Name Intelligence](name-intelligence.md)
-20K+ unique first names analyzed across 1.27 million people, revealing gender distributions, nationality patterns, birth decade trends, zodiac correlations, and notable people per name.
+### [Inteligencia de nombres](name-intelligence.md)
+20K+ nombres unicos analizados entre 1.27 millones de personas, revelando distribuciones de genero, patrones de nacionalidad y tendencias por decada.
 
-### [Richness Scoring](richness-scoring.md)
-Every entity receives a data completeness score (0-100) that drives enrichment priority. Low-score, high-popularity entities get enriched first, ensuring resources target the biggest impact.
+### [Puntuacion de completitud](richness-scoring.md)
+Cada entidad recibe una puntuacion de completitud (0-100) que impulsa la prioridad de enriquecimiento.
 
-## Scale
+## Como Impulsa el Sitio
 
-| Metric | Count |
-|--------|-------|
-| Mined facts | 150K+ |
-| People scored (Good Score) | 100K+ |
-| Names analyzed | 20K+ |
-| Entities with richness scores | 244,995 |
-| Collections published | 756 |
-| Collection items | 5,870 |
+Los resultados del motor de inteligencia aparecen en [las paginas de entidades de DropThe](https://dropthe.org):
 
-## How It Powers the Site
-
-Intelligence Engine outputs appear across the [DropThe entity pages](https://dropthe.org):
-
-- **Entity pages**: Gossip sections, Good Score tiles, related facts
-- **On This Day**: Daily pages powered by temporal fact queries ([dropthe.org/on-this-day/](https://dropthe.org/on-this-day/))
-- **Articles**: Data-driven research uses mined facts as source material
-- **Compare pages**: Entity comparison powered by structured intelligence
+- **[Paginas de personas](https://dropthe.org/people/)**: Secciones de Gossip, fichas de Good Score
+- **[Un Dia Como Hoy](https://dropthe.org/on-this-day/)**: Paginas diarias impulsadas por consultas temporales
+- **[Articulos](https://dropthe.org/blog/)**: Investigacion basada en datos usa hechos minados como fuente

@@ -1,28 +1,23 @@
-# Relationship Types
+# Tipos de Relaciones
 
-The [DropThe knowledge graph](https://dropthe.org) supports multiple relationship types across entity categories.
+El [grafo de conocimiento de DropThe](https://dropthe.org) soporta multiples tipos de relaciones entre categorias.
 
-## Core Types
+## Tipos Principales
 
-| Relationship | Example |
-|-------------|---------|
-| works-at | Person → Company |
-| founded-by | Company → Person |
-| published-by | Game → Company |
-| developed-by | Game → Company |
-| produced-by | Movie → Company |
-| directed-by | Movie → Person |
-| acted-in | Person → Movie/Series |
-| part-of | Entity → Franchise |
-| subsidiary-of | Company → Company |
-| sequel-to | Game/Movie → Game/Movie |
-| available-on | Movie/Series → Platform |
-| invested-in | Company → Company/Crypto |
+| Relacion | Ejemplo |
+|----------|---------|
+| trabaja-en | Persona → Empresa |
+| fundado-por | Empresa → Persona |
+| publicado-por | Videojuego → Empresa |
+| desarrollado-por | Videojuego → Empresa |
+| producido-por | Pelicula → Empresa |
+| dirigido-por | Pelicula → Persona |
+| actuado-en | Persona → Pelicula/Serie |
+| parte-de | Entidad → Franquicia |
+| subsidiaria-de | Empresa → Empresa |
+| secuela-de | Videojuego/Pelicula → Videojuego/Pelicula |
+| disponible-en | Pelicula/Serie → Plataforma |
 
-## Cross-Category Links
+## Enlaces Transversales
 
-One of the strengths of the DropThe graph is cross-category linking. A single person entity can connect to companies (employment), movies (acting), games (voice acting), and franchises (creative direction) -- all visible on their [entity page](https://dropthe.org/people/).
-
-## Bidirectional Access
-
-Every relationship is navigable from both sides. Visit a [company page](https://dropthe.org/companies/) to see its people, or visit a [person page](https://dropthe.org/people/) to see their companies.
+Una persona puede conectarse a [empresas](https://dropthe.org/companies/) (empleo), [peliculas](https://dropthe.org/movies/) (actuacion), [videojuegos](https://dropthe.org/games/) (doblaje) y franquicias -- todo visible en su [pagina de entidad](https://dropthe.org/people/).
