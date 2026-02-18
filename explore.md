@@ -1,68 +1,46 @@
-# Explore DropThe
+# Explorer DropThe
 
-[DropThe](https://dropthe.org) organizes 2M+ entities into browsable hubs, interactive tools, editorial guides, and data-driven articles. Here's how to navigate it all.
+[DropThe](https://dropthe.org) organise plus de 2 millions d'entites en hubs navigables, outils interactifs, guides et articles bases sur les donnees.
 
-## Entity Hubs
+## Hubs d'Entites
 
-Each entity category has a dedicated hub page with search, filtering, and browsable listings.
-
-| Hub | What You'll Find | Link |
-|-----|-----------------|------|
-| Companies | 400K+ technology firms, studios, publishers with SEC financial data | [Browse companies](https://dropthe.org/companies/) |
-| People | 500K+ executives, creators, actors with bios, Good Scores, and filmography | [Browse people](https://dropthe.org/people/) |
-| Movies | 300K+ films with ratings, cast, streaming availability | [Browse movies](https://dropthe.org/movies/) |
-| Series | 150K+ TV shows with episode data and platform tracking | [Browse series](https://dropthe.org/series/) |
-| Games | 200K+ video games with studio and platform connections | [Browse games](https://dropthe.org/games/) |
-| Crypto | 80K+ tokens with market data, social links, and founder connections | [Browse crypto](https://dropthe.org/crypto/) |
+| Hub | Ce que vous trouverez | Lien |
+|-----|----------------------|------|
+| Entreprises | 400K+ entreprises tech, studios, editeurs avec donnees financieres SEC | [Explorer les entreprises](https://dropthe.org/companies/) |
+| Personnes | 500K+ dirigeants, createurs, acteurs avec bios et Good Scores | [Explorer les personnes](https://dropthe.org/people/) |
+| Films | 300K+ films avec notes, casting et disponibilite streaming | [Explorer les films](https://dropthe.org/movies/) |
+| Series | 150K+ emissions TV avec donnees d'episodes | [Explorer les series](https://dropthe.org/series/) |
+| Jeux video | 200K+ jeux avec connexions studio et plateforme | [Explorer les jeux](https://dropthe.org/games/) |
+| Cryptomonnaies | 80K+ tokens avec donnees de marche | [Explorer les cryptos](https://dropthe.org/crypto/) |
 
 ## Guides
 
-The [DropThe guides section](https://dropthe.org/guides/) provides curated, data-backed reference content organized by topic:
+La [section guides de DropThe](https://dropthe.org/guides/) propose du contenu de reference base sur les donnees :
 
-- **Streaming guides**: What to watch on each platform, ranked by data
-- **Gaming guides**: Studio track records, franchise histories, platform comparisons
-- **Crypto guides**: Token analysis, market patterns, project deep-dives
-- **Country guides**: Safety rankings, economic indicators, quality-of-life data for 246 countries
-- **Entertainment guides**: Award histories, box office analysis, franchise timelines
+- **Guides streaming** : Que regarder sur chaque plateforme
+- **Guides gaming** : Historique des studios, comparatifs
+- **Guides crypto** : Analyse de tokens, tendances
+- **Guides pays** : Securite, indicateurs economiques, qualite de vie pour 246 pays
 
-All guides pull live data from the [entity database](entity-database/) and are updated as new information enters the system.
+Tous les guides : [dropthe.org/guides/](https://dropthe.org/guides/)
 
-Browse all guides: [dropthe.org/guides/](https://dropthe.org/guides/)
+## Articles et Analyses
 
-## Articles & Analysis
+Le [blog DropThe](https://dropthe.org/blog/) publie du journalisme base sur les donnees d'entites.
 
-The [DropThe blog](https://dropthe.org/blog/) publishes data-driven journalism powered by entity intelligence. Articles combine structured data from 2M+ entities with editorial analysis.
+Lire : [dropthe.org/blog/](https://dropthe.org/blog/)
 
-Recent topics include:
-- Game studio performance analysis across thousands of titles
-- Cryptocurrency mortality rates and recovery patterns
-- Country safety vs. tourism data comparisons
-- Box office performance and critical reception correlations
-- Streaming platform content distribution patterns
+## Outils Interactifs
 
-Every article links to relevant entity pages, creating a web of verifiable data-backed claims.
+### Ce Jour-La
+[Ce Jour-La](https://dropthe.org/on-this-day/) affiche naissances, deces, sorties de films et evenements pour chaque jour de l'annee.
 
-Read the latest: [dropthe.org/blog/](https://dropthe.org/blog/)
+### Comparateur d'Entites
+Comparez deux entites cote a cote.
 
-## Interactive Tools
-
-### On This Day
-[On This Day](https://dropthe.org/on-this-day/) shows notable births, deaths, movie releases, and historical events for every day of the year. Powered by verified date data across 1.4M+ dated entities.
-
-Browse: [dropthe.org/on-this-day/](https://dropthe.org/on-this-day/)
-
-### Entity Compare
-Compare any two entities side by side -- actors, companies, movies, countries. The comparison engine uses knowledge graph connections to surface meaningful differences and similarities.
-
-### Search
-Full-text search across 2M+ entities with instant results and category filtering.
-
-Browse: [dropthe.org/search](https://dropthe.org/search)
+### Recherche
+Recherche plein texte dans 2M+ entites : [dropthe.org/search](https://dropthe.org/search)
 
 ## DropThe Good Score
 
-The [Good Score methodology](https://dropthe.org/good/methodology/) explains the ethical rating system applied to 100K+ people. Scores span 5 dimensions (Human Impact, Innovation, Giving, Sustainability, Cultural Uplift) and incorporate knowledge graph propagation.
-
-Every [person page](https://dropthe.org/people/) includes a Good Score tile with public voting.
-
-Read the methodology: [dropthe.org/good/methodology/](https://dropthe.org/good/methodology/)
+La [methodologie du Good Score](https://dropthe.org/good/methodology/) explique le systeme de notation ethique applique a plus de 100K personnes. Chaque [page de personne](https://dropthe.org/people/) inclut une carte Good Score avec vote public.

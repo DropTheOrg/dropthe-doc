@@ -1,34 +1,14 @@
-# Entity Database
+# Base de Donnees d'Entites
 
-DropThe maintains one of the largest independent [entity databases](https://dropthe.org) on the web, tracking **2 million entities** across entertainment, technology, finance, gaming, and more.
+DropThe maintient l'une des plus grandes [bases de donnees d'entites](https://dropthe.org) independantes, avec plus de **2 millions d'entites**.
 
-Every entity page on the [DropThe data network](https://dropthe.org) provides structured data including descriptions, metadata, related entities, and category-specific intelligence.
+## Explorer par Categorie
 
-## Scale
+- [Entreprises](https://dropthe.org/companies/) -- 400K+ corporations, studios, editeurs
+- [Personnes](https://dropthe.org/people/) -- 500K+ dirigeants, createurs, acteurs
+- [Films](https://dropthe.org/movies/) -- 300K+ films avec donnees streaming
+- [Series](https://dropthe.org/series/) -- 150K+ emissions TV
+- [Jeux video](https://dropthe.org/games/) -- 200K+ jeux multi-plateformes
+- [Cryptomonnaies](https://dropthe.org/crypto/) -- 80K+ tokens blockchain
 
-| Metric | Count |
-|--------|-------|
-| Total entities | 2M+ |
-| Knowledge graph links | 2,180,000+ |
-| Streaming records | 700K+ |
-| Entity categories | 8 |
-
-## What Makes It Different
-
-- **Independent**: No corporate sponsor, no editorial bias
-- **Verified**: Data cross-referenced across multiple sources
-- **Free**: All entity pages are publicly accessible
-- **Connected**: Every entity links to related entities via the [knowledge graph](../knowledge-graph/)
-
-Browse the [full entity database](https://dropthe.org).
-
-## Browse by Category
-
-- [Companies](https://dropthe.org/companies/) -- 400K+ corporations, studios, publishers
-- [People](https://dropthe.org/people/) -- 500K+ executives, creators, actors
-- [Movies](https://dropthe.org/movies/) -- 300K+ films with streaming data
-- [Series](https://dropthe.org/series/) -- 150K+ TV shows and streaming series
-- [Games](https://dropthe.org/games/) -- 200K+ video games across platforms
-- [Crypto](https://dropthe.org/crypto/) -- 80K+ tokens and blockchain projects
-
-Or explore everything through the [DropThe guides](https://dropthe.org/guides/) and [blog](https://dropthe.org/blog/).
+Ou explorez via les [guides DropThe](https://dropthe.org/guides/) et le [blog](https://dropthe.org/blog/).

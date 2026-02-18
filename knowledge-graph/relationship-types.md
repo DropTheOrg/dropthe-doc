@@ -1,28 +1,11 @@
-# Relationship Types
+# Types de Relations
 
-The [DropThe knowledge graph](https://dropthe.org) supports multiple relationship types across entity categories.
-
-## Core Types
-
-| Relationship | Example |
-|-------------|---------|
-| works-at | Person → Company |
-| founded-by | Company → Person |
-| published-by | Game → Company |
-| developed-by | Game → Company |
-| produced-by | Movie → Company |
-| directed-by | Movie → Person |
-| acted-in | Person → Movie/Series |
-| part-of | Entity → Franchise |
-| subsidiary-of | Company → Company |
-| sequel-to | Game/Movie → Game/Movie |
-| available-on | Movie/Series → Platform |
-| invested-in | Company → Company/Crypto |
-
-## Cross-Category Links
-
-One of the strengths of the DropThe graph is cross-category linking. A single person entity can connect to companies (employment), movies (acting), games (voice acting), and franchises (creative direction) -- all visible on their [entity page](https://dropthe.org/people/).
-
-## Bidirectional Access
-
-Every relationship is navigable from both sides. Visit a [company page](https://dropthe.org/companies/) to see its people, or visit a [person page](https://dropthe.org/people/) to see their companies.
+| Relation | Exemple |
+|----------|---------|
+| travaille-a | Personne → [Entreprise](https://dropthe.org/companies/) |
+| fonde-par | Entreprise → [Personne](https://dropthe.org/people/) |
+| publie-par | [Jeu](https://dropthe.org/games/) → Entreprise |
+| produit-par | [Film](https://dropthe.org/movies/) → Entreprise |
+| joue-dans | Personne → Film/[Serie](https://dropthe.org/series/) |
+| partie-de | Entite → Franchise |
+| filiale-de | Entreprise → Entreprise |

@@ -1,60 +1,60 @@
-# DropThe Documentation
+# Documentation DropThe
 
-Technical documentation for [DropThe](https://dropthe.org) -- an independent data utility media network.
+Documentation technique de [DropThe](https://dropthe.org) -- un reseau independant de donnees et medias.
 
-## What is DropThe?
+## Qu'est-ce que DropThe ?
 
-[DropThe](https://dropthe.org) is one of the largest independent entity databases on the web, tracking nearly **2 million entities** connected by **3.5 million knowledge graph relationships** across entertainment, technology, finance, gaming, and more.
+[DropThe](https://dropthe.org) est l'une des plus grandes [bases de donnees d'entites](https://dropthe.org/companies/) independantes du web, avec plus de **2 millions d'entites** reliees par **3.5 millions de relations** dans le divertissement, la technologie, la finance, le gaming et plus.
 
-Every entity -- whether a [company](https://dropthe.org/companies/), a [person](https://dropthe.org/people/), a [movie](https://dropthe.org/movies/), or a [cryptocurrency](https://dropthe.org/crypto/) -- has a dedicated page with structured data, related entities, and category-specific intelligence.
+Chaque entite -- qu'il s'agisse d'une [entreprise](https://dropthe.org/companies/), d'une [personne](https://dropthe.org/people/), d'un [film](https://dropthe.org/movies/) ou d'une [cryptomonnaie](https://dropthe.org/crypto/) -- dispose d'une page dediee avec des donnees structurees et de l'intelligence specifique.
 
-## By the Numbers
+## En Chiffres
 
-| Metric | Count |
-|--------|-------|
-| Entities tracked | 2M+ |
-| Knowledge graph links | 3,400,000+ |
-| Entity facts (intelligence) | 150K+ |
-| Streaming availability records | 700K+ |
-| Name intelligence records | 20K+ |
-| Countries with World Bank indicators | 246 |
-| Entity categories | 17 |
-| People with ethical Good Scores | 100K+ |
+| Metrique | Quantite |
+|----------|---------|
+| Entites suivies | 2M+ |
+| Liens du graphe de connaissances | 3.5M+ |
+| Faits d'intelligence | 150K+ |
+| Enregistrements streaming | 700K+ |
+| Intelligence des prenoms | 20K+ |
+| Pays avec indicateurs Banque Mondiale | 246 |
+| Categories d'entites | 17 |
+| Personnes avec score ethique Good Score | 100K+ |
 
-## Core Systems
+## Systemes Principaux
 
-- **[Entity Database](entity-database/)** -- 2M+ entities across 17 categories
-- **[Knowledge Graph](knowledge-graph/)** -- 3.5M verified relationships mapping how entities connect
-- **[Streaming Data](streaming-data/)** -- 700K records tracking what's available where
-- **[Intelligence Engine](intelligence/)** -- Automated fact mining, scoring, and ethical ratings
-- **[Content Pipeline](pipeline/)** -- Data-driven article production system
-- **[Research & Articles](research/)** -- Published analysis powered by entity data
+- **[Base de donnees d'entites](entity-database/)** -- 2M+ entites en 17 categories
+- **[Graphe de connaissances](knowledge-graph/)** -- 3.5M relations verifiees
+- **[Donnees streaming](streaming-data/)** -- 700K enregistrements de disponibilite
+- **[Moteur d'intelligence](intelligence/)** -- Extraction de faits, scores et classements ethiques
+- **[Pipeline de contenu](pipeline/)** -- Systeme de production d'articles bases sur les donnees
+- **[Recherche et articles](research/)** -- Analyses publiees basees sur les donnees d'entites
 
-## Principles
+## Explorer
 
-- **Independent**: No corporate sponsor, no editorial bias
-- **Verified**: Data cross-referenced across multiple sources
-- **Free**: All entity pages are publicly accessible on the [DropThe platform](https://dropthe.org)
-- **AI-disclosed**: Content that uses AI assistance always discloses it
-
-## Links
-
-- Website: [dropthe.org](https://dropthe.org)
-- GitHub: [github.com/DropTheOrg](https://github.com/DropTheOrg)
-- X/Twitter: [@dropthehq](https://twitter.com/dropthehq)
-- Datasets: [Kaggle](https://www.kaggle.com/dropthe) | [HuggingFace](https://huggingface.co/DropTheHQ)
-
-## Explore
-
-| Section | Link |
+| Section | Lien |
 |---------|------|
-| Company intelligence | [dropthe.org/companies/](https://dropthe.org/companies/) |
-| People database | [dropthe.org/people/](https://dropthe.org/people/) |
-| Movie tracker | [dropthe.org/movies/](https://dropthe.org/movies/) |
-| Series tracker | [dropthe.org/series/](https://dropthe.org/series/) |
-| Game database | [dropthe.org/games/](https://dropthe.org/games/) |
-| Crypto tracker | [dropthe.org/crypto/](https://dropthe.org/crypto/) |
-| Data guides | [dropthe.org/guides/](https://dropthe.org/guides/) |
-| Articles & analysis | [dropthe.org/blog/](https://dropthe.org/blog/) |
-| On This Day | [dropthe.org/on-this-day/](https://dropthe.org/on-this-day/) |
-| Good Score methodology | [dropthe.org/good/methodology/](https://dropthe.org/good/methodology/) |
+| Intelligence d'entreprise | [dropthe.org/companies/](https://dropthe.org/companies/) |
+| Base de donnees de personnes | [dropthe.org/people/](https://dropthe.org/people/) |
+| Suivi de films | [dropthe.org/movies/](https://dropthe.org/movies/) |
+| Suivi de series | [dropthe.org/series/](https://dropthe.org/series/) |
+| Base de donnees de jeux video | [dropthe.org/games/](https://dropthe.org/games/) |
+| Suivi de cryptomonnaies | [dropthe.org/crypto/](https://dropthe.org/crypto/) |
+| Guides de donnees | [dropthe.org/guides/](https://dropthe.org/guides/) |
+| Articles et analyses | [dropthe.org/blog/](https://dropthe.org/blog/) |
+| Ce Jour-La | [dropthe.org/on-this-day/](https://dropthe.org/on-this-day/) |
+| Methodologie Good Score | [dropthe.org/good/methodology/](https://dropthe.org/good/methodology/) |
+
+## Principes
+
+- **Independant** : Pas de sponsors, pas de biais editorial
+- **Verifie** : Donnees croisees entre plusieurs sources
+- **Gratuit** : Toutes les pages accessibles sur la [plateforme DropThe](https://dropthe.org)
+- **Transparence IA** : Le contenu assiste par IA est toujours declare
+
+## Liens
+
+- Web : [dropthe.org](https://dropthe.org)
+- GitHub : [github.com/DropTheOrg](https://github.com/DropTheOrg)
+- X/Twitter : [@dropthehq](https://twitter.com/dropthehq)
+- Datasets : [Kaggle](https://www.kaggle.com/dropthe) | [HuggingFace](https://huggingface.co/DropTheHQ)
