@@ -25,7 +25,7 @@ Browse: [dropthe.org/movies/](https://dropthe.org/movies/)
 Browse: [dropthe.org/series/](https://dropthe.org/series/)
 
 ### Games
-200,000+ video games across all platforms. Connected to studios, publishers, and franchises. IGDB enrichment in progress (6,800+ with images, 82% match rate).
+200,000+ video games across all platforms. Connected to studios, publishers, and franchises. Enrichment in progress with images and platform data.
 
 Browse: [dropthe.org/games/](https://dropthe.org/games/)
 

@@ -18,7 +18,7 @@ Every fact connects to five more facts. That's the graph.
 | [Knowledge graph links](../knowledge-graph/) | 3.5M+ |
 | [Streaming records](../streaming-data/) | 700K+ |
 | Country time-series data points | 350K+ |
-| [Games with deep data](https://dropthe.org/games/) | 40K+ (IGDB enriched) |
+| [Games with deep data](https://dropthe.org/games/) | 40K+ (fully enriched) |
 | [Countries with 160+ fields](https://dropthe.org/countries/) | 246 |
 
 ## Phase 1: Completing Current Verticals
